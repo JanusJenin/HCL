@@ -1,3 +1,5 @@
+package Dailytask.Day2;
+
 public class MonthlyUsageAnalyser {
     public static void main(String[] args) {
 
